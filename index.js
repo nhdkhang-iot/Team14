@@ -4,8 +4,7 @@ import { getDatabase, ref, set, child, get } from "https://www.gstatic.com/fireb
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-const firebaseConfig = {
+// Your web app's Firebase configurationirebaseCo
 
   //Điền thông tin Firebase config của cá nhân vào đây
   // Import the functions you need from the SDKs you need
